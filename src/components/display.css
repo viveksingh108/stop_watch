@@ -1,0 +1,11 @@
+.display{
+    background-color:aqua;
+    width: 25%;
+    height: 20%;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+.display > span {
+    font-size: 5rem;
+}

@@ -1,0 +1,15 @@
+.app{
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.button{
+    margin-top: 1rem;
+    width: 12rem;
+    height: 5rem;
+    font-size: 3rem;
+    background-color: aqua;
+}
